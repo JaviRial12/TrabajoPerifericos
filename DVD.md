@@ -106,3 +106,7 @@ Los DVD siguen el sistema de archivos UDF (universal disk format o formato de di
 Esto se logra bloqueando los reproductores de DVD para que solo puedan reproducir los DVD codificados para su región (además de los DVD que no tienen ningún código de región). En la práctica, varios reproductores de DVD permiten reproducir discos de cualquier región, o pueden ser modificados para dicho propósito.
 
 Los DVD pueden utilizar un código, una combinación de códigos (multi-región), todos los códigos (todas las regiones) o ningún código (región libre).
+
+#Futuro
+
+<img src="https://segundaopor.files.wordpress.com/2012/01/segunda_oportunidad_objetos_cotidianos_cd_espantapajaros_huerta_2.jpg?w=640&h=420">

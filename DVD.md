@@ -8,8 +8,6 @@ En sus inicios, la “V” intermedia hacía referencia a video (Digital Video D
 
 El DVD es un tipo de disco óptico para almacenamiento de datos.
 
-En sus inicios, la “V” intermedia hacía referencia a video (**Digital Video Disc** o *Disco de Video Digital*), debido a su desarrollo como reemplazo del formato VHS para la distribución de vídeo a los hogares.
-
 # Historia
 A comienzo de los años 1990, se estaban desarrollando dos estándares de almacenamiento óptico de alta densidad:
 

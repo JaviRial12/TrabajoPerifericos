@@ -1,7 +1,7 @@
 # DVD
 ## DVD (Disco Versátil Digital)
 
-<img width="80" src="https://i.ebayimg.com/images/i/162138785143-0-1/s-l1000.jpg">
+<img width="150" src="https://i.ebayimg.com/images/i/162138785143-0-1/s-l1000.jpg">
 
 
 En sus inicios, la “V” intermedia hacía referencia a video (Digital Video Disc o Disco de Video Digital), debido a su desarrollo como reemplazo del formato VHS para la distribución de vídeo a los hogares.

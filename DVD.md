@@ -93,15 +93,15 @@ La velocidad de transferencia de datos de una unidad DVD está dada en múltiplo
 Los DVD siguen el sistema de archivos UDF (universal disk format o formato de disco universal) y Joliet. Se adoptó este sistema de archivos para reemplazar al estándar ISO 9660, y su principal uso es la grabación o regrabación de discos. Fue desarrollado por OSTA (Optical Storage Technology Association, Asociación de la Tecnología de Almacenamiento Óptico).
 
 # Publicación (regiones)
-0: Multirregión.
-1: América del Norte (excepto México y Groenlandia) y territorios estadounidenses (incluyendo Puerto Rico), y Bermudas.
-2: Europa central y occidental, Asia occidental, Egipto, Sudáfrica, Japón, territorios de países europeos, Guayana Francesa y Groenlandia.
-3: Asia sudoriental y Corea del Sur.
-4: México, América Central, América Latina (excepto Guayana Francesa), Antillas y Oceanía (excepto Nueva Caledonia).
-5: África (excepto Sudáfrica y Egipto) y Asia septentrional, central y meridional.
-6: China.
-7: Reservado para uso futuro.
-8: Viajes internacionales como aviones, cruceros, etc.
+- 0: Multirregión.
+- 1: América del Norte (excepto México y Groenlandia) y territorios estadounidenses (incluyendo Puerto Rico), y Bermudas.
+- 2: Europa central y occidental, Asia occidental, Egipto, Sudáfrica, Japón, territorios de países europeos, Guayana Francesa y  Groenlandia.
+- 3: Asia sudoriental y Corea del Sur.
+- 4: México, América Central, América Latina (excepto Guayana Francesa), Antillas y Oceanía (excepto Nueva Caledonia).
+- 5: África (excepto Sudáfrica y Egipto) y Asia septentrional, central y meridional.
+- 6: China.
+- 7: Reservado para uso futuro.
+- 8: Viajes internacionales como aviones, cruceros, etc.
 
 Esto se logra bloqueando los reproductores de DVD para que solo puedan reproducir los DVD codificados para su región (además de los DVD que no tienen ningún código de región). En la práctica, varios reproductores de DVD permiten reproducir discos de cualquier región, o pueden ser modificados para dicho propósito.
 
